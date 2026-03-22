@@ -61,4 +61,4 @@ A versão completa, utilizada em ambiente real, possui integrações e dados que
 ## 👨‍💻 Autor
 
 Braian Rodrigues  
-Desenvolvedor 
+Desenvolvedor Full Stack
