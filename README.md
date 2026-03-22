@@ -1,16 +1,11 @@
 # 🚀 DataFusion Analyzer
-
-> 💡 Aplicação completa de pipeline de dados (ETL) com interface gráfica, desenvolvida para cenários reais de processamento e análise de informações.
-
-Sistema desktop desenvolvido em Python para automação do fluxo de coleta, processamento e análise de informações provenientes de múltiplas fontes.
+> 💡 Aplicação de pipeline de dados (ETL) com interface gráfica, desenvolvida para cenários reais de processamento e análise de informações.
 
 ---
 
 ## 📌 Sobre o projeto
 
-O **DataFusion Analyzer** é uma aplicação que realiza um pipeline completo de dados, desde a coleta até a geração de relatórios analíticos.
-
-O sistema integra diferentes fontes de dados (como e-mails e arquivos estruturados), realiza o tratamento e a organização das informações e organiza de forma eficiente.
+O **DataFusion Analyzer** é um sistema desktop desenvolvido em Python que executa um pipeline completo de dados, integrando diferentes fontes (como e-mails e arquivos estruturados), realizando o tratamento e a organização das informações e gerando relatórios analíticos de forma automatizada.
 
 ---
 
@@ -37,7 +32,21 @@ O sistema integra diferentes fontes de dados (como e-mails e arquivos estruturad
 
 ## 📸 Interface
 
-<img width="2557" height="1031" alt="tela" src="https://github.com/user-attachments/assets/1738a2f6-a74d-41a9-9d76-36ee2c5a40e5" />
+<img width="2559" height="1033" alt="tela" src="https://github.com/user-attachments/assets/a6114bcc-cef6-498a-a8d7-2cdc023ef748" />
+
+---
+
+## 🔄 Como funciona
+
+O sistema executa um fluxo automatizado de processamento de dados:
+
+1. Coleta dados de fontes externas (como e-mails e arquivos)
+2. Realiza a leitura e extração das informações
+3. Processa e organiza os dados em estruturas padronizadas
+4. Aplica regras de transformação e análise
+5. Gera relatórios analíticos com base nas informações processadas
+
+Todo o processo é executado por meio de uma interface gráfica, permitindo ao usuário acompanhar e controlar cada etapa do fluxo.
 
 ---
 
