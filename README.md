@@ -34,7 +34,7 @@ O sistema integra diferentes fontes (como e-mails e arquivos estruturados), real
 
 ## 📸 Interface
 
-![Sistema](./screenshots/tela.png)
+<img width="2557" height="1031" alt="tela" src="https://github.com/user-attachments/assets/1738a2f6-a74d-41a9-9d76-36ee2c5a40e5" />
 
 ---
 
