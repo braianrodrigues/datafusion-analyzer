@@ -1,6 +1,8 @@
 # 🚀 DataFusion Analyzer
 
-Sistema desktop desenvolvido em Python para automação de coleta de dados, processamento e análise de dados provenientes de múltiplas fontes.
+> 💡 Aplicação completa de pipeline de dados (ETL) com interface gráfica, desenvolvida para cenários reais de processamento e análise de informações.
+
+Sistema desktop desenvolvido em Python para automação do fluxo de coleta, processamento e análise de informações provenientes de múltiplas fontes.
 
 ---
 
@@ -8,7 +10,7 @@ Sistema desktop desenvolvido em Python para automação de coleta de dados, proc
 
 O **DataFusion Analyzer** é uma aplicação que realiza um pipeline completo de dados, desde a coleta até a geração de relatórios analíticos.
 
-O sistema integra diferentes fontes (como e-mails e arquivos estruturados), realiza tratamento dos dados e organiza as informações de forma eficiente.
+O sistema integra diferentes fontes de dados (como e-mails e arquivos estruturados), realiza o tratamento e a organização das informações e organiza de forma eficiente.
 
 ---
 
@@ -26,9 +28,10 @@ O sistema integra diferentes fontes (como e-mails e arquivos estruturados), real
 ## 🧠 Tecnologias utilizadas
 
 - Python
-- Tkinter
-- JSON / HTML parsing
+- Tkinter (Interface gráfica desktop)
+- Manipulação de dados (JSON, HTML, TXT)
 - Automação de processos
+- Pipeline de dados (ETL)
 
 ---
 
@@ -42,7 +45,7 @@ O sistema integra diferentes fontes (como e-mails e arquivos estruturados), real
 
 Este repositório é uma versão demonstrativa do sistema.
 
-A versão completa utilizada em ambiente real contém integrações e dados que não podem ser disponibilizados publicamente.
+A versão completa, utilizada em ambiente real, possui integrações e dados que não podem ser disponibilizados publicamente por questões de segurança e confidencialidade.
 
 ---
 
