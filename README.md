@@ -1,6 +1,6 @@
 # 🚀 DataFusion Analyzer
 
-Sistema desktop desenvolvido em Python para automação de ingestão, processamento e análise de dados provenientes de múltiplas fontes.
+Sistema desktop desenvolvido em Python para automação de coleta de dados, processamento e análise de dados provenientes de múltiplas fontes.
 
 ---
 
